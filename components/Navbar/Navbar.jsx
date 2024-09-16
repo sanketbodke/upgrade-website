@@ -19,7 +19,11 @@ function Navbar() {
         <nav className="fixed top-0 left-0 w-full bg-gradient-to-r py-6 px-6 md:px-[120px] flex justify-between items-center">
             <div className="flex items-center gap-4">
                 <Link href="/">
-                    <Image src={images.logo} alt="logo" />
+                    <Image
+                        src={images.logo}
+                        alt="logo"
+                        className="object-cover"
+                    />
                 </Link>
             </div>
 

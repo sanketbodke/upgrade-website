@@ -30,7 +30,11 @@ export default function Home() {
             </div>
 
             <div className="hidden md:basis-[50%] md:flex justify-center items-center">
-                <Image src={images.homeImage} alt="Home Image"/>
+                <Image
+                    src={images.homeImage}
+                    alt="Home Image"
+                    className="object-cover"
+                />
             </div>
         </div>
     );

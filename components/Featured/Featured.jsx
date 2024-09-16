@@ -38,6 +38,7 @@ function Featured() {
                         layout="responsive"
                         width={500}
                         height={300}
+                        className="object-cover"
                     />
                 </div>
             </div>

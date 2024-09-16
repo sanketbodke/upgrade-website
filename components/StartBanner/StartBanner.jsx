@@ -28,7 +28,7 @@ function StartBanner() {
                         layout="responsive"
                         width={600}
                         height={400}
-                        className="object-cover"
+                        className="object-cover bg-center"
                     />
                 </div>
             </div>

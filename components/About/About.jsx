@@ -14,7 +14,7 @@ function About() {
                         src={images.AboutUsImage}
                         alt={"Saving Image"}
                         layout="responsive"
-                        className="w-full h-auto"
+                        className="w-full h-auto object-cover"
                     />
                 </div>
 

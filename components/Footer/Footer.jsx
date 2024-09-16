@@ -12,18 +12,18 @@ function Footer() {
                     <Image
                         src={images.FooterLogo}
                         alt={"Logo"}
-                        className="w-32 md:w-auto"
+                        className="w-32 md:w-auto object-cover"
                     />
                     <div className="flex items-center gap-4 md:gap-6">
                         <Image
                             src={images.playStore}
                             alt={"Play Store"}
-                            className="w-24 md:w-auto"
+                            className="w-24 md:w-auto object-cover"
                         />
                         <Image
                             src={images.appStore}
                             alt={"App Store"}
-                            className="w-24 md:w-auto"
+                            className="w-24 md:w-auto object-cover"
                         />
                     </div>
                 </div>
