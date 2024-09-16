@@ -38,7 +38,7 @@ function Featured() {
                         layout="responsive"
                         width={500}
                         height={300}
-                        className="object-cover"
+                        className="object-cover bg-center"
                     />
                 </div>
             </div>

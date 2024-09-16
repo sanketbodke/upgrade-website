@@ -14,7 +14,7 @@ function Truest() {
                         src={images.Truest}
                         alt={"Trust Image"}
                         layout="responsive"
-                        className="object-cover"
+                        className="object-cover bg-center"
                     />
                 </div>
 

@@ -33,7 +33,7 @@ export default function Home() {
                 <Image
                     src={images.homeImage}
                     alt="Home Image"
-                    className="object-cover"
+                    className="object-cover bg-center"
                 />
             </div>
         </div>

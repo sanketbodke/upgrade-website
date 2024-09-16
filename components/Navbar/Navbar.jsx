@@ -22,7 +22,7 @@ function Navbar() {
                     <Image
                         src={images.logo}
                         alt="logo"
-                        className="object-cover"
+                        className="object-cover bg-center"
                     />
                 </Link>
             </div>
