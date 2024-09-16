@@ -1,5 +1,5 @@
 import Home from "@/components/Home/Home";
-import Clients from "@/components/Clients/Clients";
+import Clients from "@/components/clients/Clients";
 import About from "@/components/About/About";
 import Featured from "@/components/Featured/Featured";
 import Truest from "@/components/Trust/Truest";
